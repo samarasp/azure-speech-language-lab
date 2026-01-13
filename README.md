@@ -43,6 +43,15 @@ O Azure Language Studio é uma ferramenta voltada para **processamento de lingua
 - Detecção automática de idioma
 - Classificação de texto
 
+---
+
+## 📌 Conclusão
+
+A realização deste laboratório possibilitou a consolidação dos conceitos relacionados ao uso de inteligência artificial aplicada à voz e à linguagem natural, por meio das ferramentas Azure Speech Studio e Azure Language Studio.
+
+A prática demonstrou como essas soluções podem ser utilizadas em cenários reais, como assistentes virtuais, análise de sentimentos e automação de atendimento, reforçando a importância da documentação técnica no processo de aprendizagem.
+
+
 ### Aprendizados
 
 - A ferramenta facilita a compreensão do contexto e emoção de textos
