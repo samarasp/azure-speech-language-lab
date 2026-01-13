@@ -29,3 +29,23 @@ O Azure Speech Studio é uma ferramenta da Microsoft voltada para soluções de 
 - A ferramenta permite testar soluções de voz de forma rápida
 - É possível avaliar a qualidade da pronúncia por meio de métricas
 - O serviço é indicado para prototipação de aplicações com voz
+
+- ---
+
+## 📝 Azure Language Studio
+
+O Azure Language Studio é uma ferramenta voltada para **processamento de linguagem natural (NLP)**, permitindo analisar textos e extrair informações relevantes de forma automática.
+
+### Funcionalidades exploradas
+
+- Análise de sentimento
+- Extração de frases-chave
+- Detecção automática de idioma
+- Classificação de texto
+
+### Aprendizados
+
+- A ferramenta facilita a compreensão do contexto e emoção de textos
+- A extração de frases-chave auxilia na sumarização de conteúdo
+- O serviço pode ser aplicado em análises de feedbacks e atendimento automatizado
+
