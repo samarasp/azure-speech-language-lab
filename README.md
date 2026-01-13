@@ -1,2 +1,4 @@
-# azure-speech-language-lab
-Documentação do laboratório prático com Azure Speech Studio e Azure Language Studio, com anotações e aprendizados sobre IA aplicada à voz e linguagem.
+# 🧠 Azure AI – Speech Studio & Language Studio
+
+Este repositório documenta minha experiência prática no laboratório de uso das ferramentas **Azure Speech Studio** e **Azure Language Studio**, conforme proposto no desafio da DIO.
+
